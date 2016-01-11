@@ -5,16 +5,15 @@
   "type": "package",
   "keywords": ["bootstrap", "theme", "admin", "template", "administrator","admin-lte","adminlte", "laravel"],
   "authors": [
+     {
+      "name": "Gabriel Jaime",
+      "email": "acagabo@gmail.com",
+      "role": "Edited By"
+    },
     {
       "name": "Sergi Tur Badenas",
       "email": "sergiturbadenas@gmail.com",
       "homepage": "http://acacha.org"
-    }
-  ,
-    {
-      "name": "Gabriel Jaime",
-      "email": "acagabo@gmail.com",
-      "role": "Edited By"
     }
   ],
   "minimum-stability": "dev",
